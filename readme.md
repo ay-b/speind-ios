@@ -1,4 +1,4 @@
-#Speaking mind project
+# Speaking mind project
 ## iOS client application
 
 This product is now open-source under AGPL v3 license. 
