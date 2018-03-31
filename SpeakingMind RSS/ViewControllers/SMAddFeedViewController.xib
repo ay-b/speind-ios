@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6724" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6711"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SMAddFeedViewController">
+            <connections>
+                <outlet property="confirmButton" destination="0q2-X3-xAN" id="X9e-YZ-I3x"/>
+                <outlet property="tableView" destination="OIU-6U-Ft9" id="xMO-QZ-yyo"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0q2-X3-xAN">
+                    <rect key="frame" x="0.0" y="518" width="320" height="50"/>
+                    <color key="backgroundColor" red="0.9843137264251709" green="0.33725491166114807" blue="0.25882354378700256" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="VA7-aH-zDE"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="light" pointSize="15"/>
+                    <state key="normal" title="Check feed">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="confirmButtonPressed:" destination="-1" eventType="touchUpInside" id="EHQ-rv-OdY"/>
+                    </connections>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="60" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="OIU-6U-Ft9">
+                    <rect key="frame" x="0.0" y="64" width="320" height="454"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="sxL-oZ-Ibx"/>
+                        <outlet property="delegate" destination="-1" id="Fzj-qC-vJI"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="0q2-X3-xAN" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="APN-ee-v2S"/>
+                <constraint firstAttribute="bottom" secondItem="0q2-X3-xAN" secondAttribute="bottom" id="PrY-Yh-9qE"/>
+                <constraint firstAttribute="trailing" secondItem="0q2-X3-xAN" secondAttribute="trailing" id="Thb-jW-PnN"/>
+                <constraint firstAttribute="trailing" secondItem="OIU-6U-Ft9" secondAttribute="trailing" id="dK1-6y-xaB"/>
+                <constraint firstItem="OIU-6U-Ft9" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="ekX-gJ-qid"/>
+                <constraint firstItem="0q2-X3-xAN" firstAttribute="top" secondItem="OIU-6U-Ft9" secondAttribute="bottom" id="gbL-CV-kQ3"/>
+                <constraint firstItem="OIU-6U-Ft9" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="64" id="zZB-xh-eIP"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

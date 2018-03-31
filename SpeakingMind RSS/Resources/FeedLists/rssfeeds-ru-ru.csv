@@ -1,0 +1,401 @@
+Language,Country,Region/State,City,Category,Subcategory,Provider,Vocalizing,URL
+RU,Россия,,,Hi-Tech,,Habrahabr,Хабр,http://habrahabr.ru/rss/hubs/new/
+RU,Россия,Северо-западный,Санкт-Петербург,Лента новостей,,Fontanka,Фонтанка,http://www.fontanka.ru/fontanka.rss
+RU,Россия,Центральный,Москва,Лента новостей,,Yandex,Яндекс,http://news.yandex.ru/Moscow/index.rss
+RU,Россия,,,Лента новостей,,Yandex,Яндекс,http://news.yandex.ru/index.rss
+RU,Россия,,,Политика,,Yandex,Яндекс,http://news.yandex.ru/politics.rss
+RU,Россия,,,В мире,,Yandex,Яндекс,http://news.yandex.ru/world.rss
+RU,Россия,,,Общество,,Yandex,Яндекс,http://news.yandex.ru/society.rss
+RU,Россия,,,Бизнес,,Yandex,Яндекс,http://news.yandex.ru/business.rss
+RU,Россия,,,Спорт,,Yandex,Яндекс,http://news.yandex.ru/sport.rss
+RU,Россия,,,Проишествия,,Yandex,Яндекс,http://news.yandex.ru/incident.rss
+RU,Россия,,,Культура,,Yandex,Яндекс,http://news.yandex.ru/culture.rss
+RU,Россия,,,Наука,,Yandex,Яндекс,http://news.yandex.ru/science.rss
+RU,Россия,,,Hi-Tech,,Yandex,Яндекс,http://news.yandex.ru/computers.rss
+RU,Россия,,,Интернет,,Yandex,Яндекс,http://news.yandex.ru/internet.rss
+RU,Россия,,,Авто,,Yandex,Яндекс,http://news.yandex.ru/auto.rss
+RU,Россия,,,В мире,,mail.ru,мэйл ру,http://news.mail.ru/rss/
+RU,Россия,,,Главные новости,,mail.ru,мэйл ру,http://news.mail.ru/rss/main/
+RU,Россия,,,Политика,,mail.ru,мэйл ру,http://news.mail.ru/rss/politics/
+RU,Россия,,,Бизнес,,mail.ru,мэйл ру,http://news.mail.ru/rss/economics/
+RU,Россия,,,Общество,,mail.ru,мэйл ру,http://news.mail.ru/rss/society/
+RU,Россия,,,Проишествия,,mail.ru,мэйл ру,http://news.mail.ru/rss/incident/
+RU,Россия,,,Культура,,mail.ru,мэйл ру,http://news.mail.ru/rss/culture/
+RU,Россия,,,Спорт,,mail.ru,мэйл ру,http://news.mail.ru/rss/sport/
+RU,Россия,,,Выбор редактора,,Ведомости,Ведомости,http://www.vedomosti.ru/newspaper/out/rss.xml
+RU,Россия,,,Главные публикации,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/topnews.xml
+RU,Россия,,,Новостная лента,,Ведомости,Ведомости,http://www.vedomosti.ru/newsline/out/rss.xml
+RU,Россия,,,Мнения,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/opinion.xml
+RU,Россия,,,Власть,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/politics.xml
+RU,Россия,,,Компании,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/companies.xml
+RU,Россия,,,Финансы,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/finance.xml
+RU,Россия,,,Технологии,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/tech.xml
+RU,Россия,,,Недвижимость,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/realty.xml
+RU,Россия,,,Авто,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/auto.xml
+RU,Россия,,,Карьера,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/career.xml
+RU,Россия,,,Спорт,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/sport.xml
+RU,Россия,,,Стиль жизни,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/lifestyle.xml
+RU,Россия,,,Расследования,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/library-investigation.xml
+RU,Россия,,,Действующие лица,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/library-persons.xml
+RU,Россия,,,Инфографика,,Ведомости,Ведомости,http://www.vedomosti.ru/rss/themes/library-infographics.xml
+RU,Россия,,,Пятница,,Ведомости,Ведомости,http://www.vedomosti.ru/out/friday.xml
+RU,Россия,,,Газета «Коммерсантъ». Главное,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/main.xml
+RU,Россия,,,Газета «Коммерсантъ». Полная версия,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/daily.xml
+RU,Россия,,,Журнал «Коммерсантъ ВЛАСТЬ»,,Коммерсант,Коммерсант власть,http://www.kommersant.ru/RSS/weekly.xml
+RU,Россия,,,Журнал «Коммерсантъ ДЕНЬГИ»,,Коммерсант,Коммерсант деньги,http://www.kommersant.ru/RSS/money.xml
+RU,Россия,,,Журнал «ОГОНЁК»,,Коммерсант,Огонёк,http://www.kommersant.ru/RSS/ogoniok.xml
+RU,Россия,,,Журнал «Коммерсантъ WEEKEND»,,Коммерсант,Коммерсант уикенд,http://www.kommersant.ru/RSS/weekend.xml
+RU,Россия,,,Журнал «Коммерсантъ АВТОПИЛОТ»,,Коммерсант,Автопилот,http://www.kommersant.ru/RSS/auto.xml
+RU,Россия,,,Журнал «Коммерсантъ СЕКРЕТ ФИРМЫ»,,Коммерсант,Секрет фирмы,http://www.kommersant.ru/RSS/sf.xml
+RU,Россия,,,Лента новостей,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/news.xml
+RU,Россия,,,Политика,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-politics.xml
+RU,Россия,,,Экономика,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-economics.xml
+RU,Россия,,,Бизнес,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-business.xml
+RU,Россия,,,В мире,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-world.xml
+RU,Россия,,,Происшествия,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-accidents.xml
+RU,Россия,,,Общество,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-society.xml
+RU,Россия,,,Культура,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-culture.xml
+RU,Россия,,,Спорт,,Коммерсант,Коммерсант,http://www.kommersant.ru/RSS/section-sport.xml
+RU,Россия,,Санкт-Петербург,Лента новостей,,Коммерсант,Коммерсант питер,http://www.kommersant.ru/rss/regions/piter.xml
+RU,Россия,,Владивосток,Лента новостей,,Коммерсант,Коммерсант владивосток,http://www.kommersant.ru/rss/regions/vladivostok.xml
+RU,Россия,,Волгоград,Лента новостей,,Коммерсант,Коммерсант волгоград,http://www.kommersant.ru/rss/regions/volgograd.xml
+RU,Россия,,Воронеж,Лента новостей,,Коммерсант,Коммерсант Воронеж,http://www.kommersant.ru/rss/regions/vrn.xml
+RU,Россия,,Екатеринбург,Лента новостей,,Коммерсант,Коммерсант урал,http://www.kommersant.ru/rss/regions/ekaterinburg.xml
+RU,Россия,,Иркутск,Лента новостей,,Коммерсант,Коммерсант Иркутск,http://www.kommersant.ru/rss/regions/irkutsk.xml
+RU,Россия,,Казань,Лента новостей,,Коммерсант,Коммерсант Казань,http://www.kommersant.ru/rss/regions/kazan.xml
+RU,Россия,,Красноярск,Лента новостей,,Коммерсант,Коммерсант Сибирь,http://www.kommersant.ru/rss/regions/krasnoyarsk.xml
+RU,Россия,,Нижний Новгород,Лента новостей,,Коммерсант,Коммерсант нижний,http://www.kommersant.ru/rss/regions/nnov.xml
+RU,Россия,,Новосибирск,Лента новостей,,Коммерсант,Коммерсант Сибирь,http://www.kommersant.ru/rss/regions/novosibirsk.xml
+RU,Россия,,Омск,Лента новостей,,Коммерсант,Коммерсант Сибирь,http://www.kommersant.ru/rss/regions/omsk.xml
+RU,Россия,,Пермь,Лента новостей,,Коммерсант,Коммерсант Пермь,http://www.kommersant.ru/rss/regions/perm.xml
+RU,Россия,,Ростов-на-Дону,Лента новостей,,Коммерсант,Коммерсант Ростов,http://www.kommersant.ru/rss/regions/rostov.xml
+RU,Россия,,Самара,Лента новостей,,Коммерсант,Коммерсант поволжье,http://www.kommersant.ru/rss/regions/samara.xml
+RU,Россия,,Саратов,Лента новостей,,Коммерсант,Коммерсант Саратов,http://www.kommersant.ru/rss/regions/saratov.xml
+RU,Россия,,Уфа,Лента новостей,,Коммерсант,Коммерсант Уфа,http://www.kommersant.ru/rss/regions/ufa.xml
+RU,Россия,,Хабаровск,Лента новостей,,Коммерсант,Коммерсант Хабаровск,http://www.kommersant.ru/rss/regions/khabarovsk.xml
+RU,Россия,,Чебоксары,Лента новостей,,Коммерсант,Коммерсант Чебоксары,http://www.kommersant.ru/rss/regions/cheboksary.xml
+RU,Россия,,,Лента новостей,,lenta.ru,Лента ру,http://lenta.ru/rss
+RU,Россия,,,Лента новостей,,BBC,бибиси,http://wsrss.bbc.co.uk/russian/index.xml
+RU,Россия,,,Лента новостей,,MK,Московский комсомолец,http://www.mk.ru/rss/news/index.xml
+RU,Россия,,Санкт-Петербург,Лента новостей,,МР7,МР7,http://www.mr7.ru/rss/
+RU,Россия,,,Лента новостей,,Регнум,Регнум,http://www.regnum.ru/rss/index.xml
+RU,Россия,,,Лента новостей,,Российская Газета,Российская Газета,http://www.rg.ru/xml/index.xml
+RU,Россия,,,Лента новостей,,Google,гугл,http://news.google.ru/news?pz=1&cf=all&ned=ru_ru&hl=ru&output=rss
+RU,Россия,,,Проект BFM.ru,,BFM,би эф эм,http://www.bfm.ru/news.rss
+RU,Россия,,,Лента новостей,,BFM,би эф эм,http://www.bfm.ru/news.rss?type=news
+RU,Россия,,,Статьи,,BFM,би эф эм,http://www.bfm.ru/news.rss?type=article
+RU,Россия,,,Breaking News,,BFM,би эф эм,http://www.bfm.ru/news.rss?container_breaking=8
+RU,Россия,,,Hi-Tech,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=18
+RU,Россия,,,Макроэкономика,,BFM,би эф эм,http://www.bfm.ru/news.rss?rubric=19
+RU,Россия,,,Медиа,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=20
+RU,Россия,,,Металлургия,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=21
+RU,Россия,,,Недвижимость,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=22
+RU,Россия,,,Потребрынок,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=23
+RU,Россия,,,Индустрия,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=24
+RU,Россия,,,Телеком,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=25
+RU,Россия,,,Транспорт,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=26
+RU,Россия,,,ТЭК,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=27
+RU,Россия,,,Финансы,,BFM,би эф эм,http://www.bfm.ru/news.rss?rubric=28
+RU,Россия,,,антикризис,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=32
+RU,Россия,,,Конфликты,,BFM,би эф эм,http://www.bfm.ru/news.rss?rubric=35
+RU,Россия,,,IT,,BFM,би эф эм,http://www.bfm.ru/news.rss?tag=1399
+RU,Россия,,,Сноб,,Сноб,Сноб,http://www.snob.ru/rss/all
+RU,Россия,,,Все материалы,,Слон,Слон,http://slon.ru/rss/xml/all.xml
+RU,Россия,,,Россия,,Слон,Слон,http://slon.ru/rss/xml/russia.xml
+RU,Россия,,,Экономика,,Слон,Слон,http://slon.ru/rss/xml/economics.xml
+RU,Россия,,,Бизнес,,Слон,Слон,http://slon.ru/rss/xml/business.xml
+RU,Россия,,,Деньги,,Слон,Слон,http://slon.ru/rss/xml/money.xml
+RU,Россия,,,Мир,,Слон,Слон,http://slon.ru/rss/xml/world.xml
+RU,Россия,,,Будущее,,Слон,Слон,http://slon.ru/rss/xml/future.xml
+RU,Россия,,,Самые главные новости (3-5 в день),,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/news/top
+RU,Россия,,,Главные новости (10-20 в день),,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/news/big
+RU,Россия,,,Важные новости (40-50 в день),,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/news/main
+RU,Россия,,,Все новости,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/news/all
+RU,Россия,,,Россия,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/russia
+RU,Россия,,,В мире,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/world
+RU,Россия,,,Экономика,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/finance
+RU,Россия,,,Религия и общество,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/religy
+RU,Россия,,,Проишествия,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/crime
+RU,Россия,,,Спорт,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/sport
+RU,Россия,,,Культура,,Newsru,Ньюс ру,http://feeds.newsru.com/com/www/section/cinema
+RU,Россия,,,Недвижимость,,Newsru,Ньюс ру,http://realty.newsru.com/rss
+RU,Россия,,,Авто,,Newsru,Ньюс ру,http://auto.newsru.com/rss
+RU,Россия,,,Hi-Tech,,Newsru,Ньюс ру,http://hitech.newsru.com/rss
+RU,Россия,,,В блогах,,Newsru,Ньюс ру,http://blogs.newsru.com/rss
+RU,Россия,,Москва,В Москве,,Newsru,Ньюс ру москва,http://www.newsmsk.com/rss/
+RU,Россия,,,Заголовки,,Newsru,Заголовки ру,http://www.zagolovki.ru/rss/
+RU,Россия,,,Медицина,,Newsru,Ньюс ру,http://www.meddaily.ru/rss/
+RU,Россия,,,Инопресса,,Newsru,Инопресса,http://www.inopressa.ru/rss/
+RU,Украина,,,Новости Украины,,Newsru,Ньюс ру,http://feeds.newsru.ua/uarus/www/news/main
+RU,Израиль,,,Новости Израиля,,Newsru,Ньюс ру,http://feeds.newsru.com/il/www/news/main
+RU,Россия,,,Главные новости,,Sportbox,спортбокс,http://news.sportbox.ru/taxonomy/term/7212/0/feed
+RU,Россия,,,Все новости,,Sportbox,спортбокс,http://news.sportbox.ru/news/all/feed
+RU,Россия,,,Все новости,,Sports.ru,спортс ру,http://www.sports.ru/rss/all_news.xml
+RU,Россия,,,Все новости,,Грани.ru,Грани ру,http://grani.ru/export/articles-rss2.xml
+RU,Россия,,,Первая полоса,,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/first.xml
+RU,Россия,,,Хроника дня,,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/lenta.xml
+RU,Россия,,,Новость часа,,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/lastnews.xml
+RU,Россия,,,Политика,,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/politics.xml
+RU,Россия,,,Заметки,Бизнес,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/business.xml
+RU,Россия,,,Деловые новости,Бизнес,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/busnews.xml
+RU,Россия,,,Заметки,Общество,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/social.xml
+RU,Россия,,,Новости,Общество,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/social_more.xml
+RU,Россия,,,Заметки,Путешествия,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/travel_articles.xml
+RU,Россия,,,Личный опыт,Путешествия,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/travel_lo.xml
+RU,Россия,,,Новости,Путешествия,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/travel_news.xml
+RU,Россия,,,Заметки,Технологии,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/tech_articles.xml
+RU,Россия,,,Новости,Технологии,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/tech_news.xml
+RU,Россия,,,Заметки,Недвижимость,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/realty.xml
+RU,Россия,,,Новости,Недвижимость,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/realty_news.xml
+RU,Россия,,,Мнения,,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/comments.xml
+RU,Россия,,,Заметки,Культура,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/culture.xml
+RU,Россия,,,Новости,Культура,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/culture_more.xml
+RU,Россия,,,Заметки,Наука,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/science.xml
+RU,Россия,,,Новости,Наука,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/science_more.xml
+RU,Россия,,,Заметки,Авто,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/auto.xml
+RU,Россия,,,Новости,Авто,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/autonews.xml
+RU,Россия,,,Тестдрайвы,Авто,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/auto_testdrive.xml
+RU,Россия,,,Заметки,Здоровье,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/health_articles.xml
+RU,Россия,,,Новости,Здоровье,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/health_news.xml
+RU,Россия,,,Авторские колонки,,Gazeta.ru,Газета ру,http://www.gazeta.ru/export/rss/kolonka.xml
+RU,Россия,,Екатеринбург,Все новости,,е1,Новости Е1,http://www.e1.ru/talk/forum/rss.php?f=9
+RU,Россия,,Тюмень,Новости,,72.ru,Портал 72 ру,http://72.ru/text/rss.xml
+RU,Россия,,Тюмень,Все новости,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss
+RU,Россия,,Тюмень,Туризм,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B115%5D=1
+RU,Россия,,Тюмень,Авто,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B109%5D=1
+RU,Россия,,Тюмень,Проишествия,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B31%5D=1
+RU,Россия,,Тюмень,Бизнес-календарь,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B105%5D=1
+RU,Россия,,Тюмень,Пресс-релизы,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B114%5D=1
+RU,Россия,,Тюмень,Интервью,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B116%5D=1
+RU,Россия,,,Страна и мир,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B89%5D=1
+RU,Россия,,Тюмень,Экономика,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B21%5D=1
+RU,Россия,,Тюмень,Спорт,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B32%5D=1
+RU,Россия,,Тюмень,Новости компаний,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B112%5D=1
+RU,Россия,,Тюмень,Общество,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B30%5D=1
+RU,Россия,,Тюмень,Кулинарный блокнот,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B107%5D=1
+RU,Россия,,Тюмень,Политика,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B19%5D=1
+RU,Россия,,Тюмень, Дайджест региональных СМИ,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B86%5D=1
+RU,Россия,,Тюмень,ТЭК,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B20%5D=1
+RU,Россия,,Тюмень, Еда в Тюмени,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B113%5D=1
+RU,Россия,,Тюмень,Недвижимость,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B108%5D=1
+RU,Россия,,Тюмень, Без грифа секретности,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B100%5D=1
+RU,Россия,,Тюмень,Культура,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B181%5D=1
+RU,Россия,,Тюмень,Вкусная страница,,vsluh.ru,Портал Вслух ру,http://www.vsluh.ru/rss.rss?utf8=✓&rubrics%5B182%5D=1
+RU,Россия,,,Все новости,,meduza.io,Медуза,https://meduza.io/feed/all
+RU,Россия,,,Главные Новости,,meduza.io,Медуза,https://meduza.io/feed/news
+RU,Россия,,,Разное,,meduza.io,Медуза,https://meduza.io/feed/fun
+RU,Россия,,,Статьи,,Планета HR,Планета эйч ар,http://www.planetahr.ru/rss/start
+RU,Россия,,Бийск,Статьи,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/?format=feed&type=rss
+RU,Россия,,Бийск,Новости,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/novosti.html?format=feed&type=rss
+RU,Россия,,Бийск,Политика,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/politika.html?format=feed&type=rss
+RU,Россия,,Бийск,Культура,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/kultura.html?format=feed&type=rss
+RU,Россия,,Бийск,Общество,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/obshchestvo.html?format=feed&type=rss
+RU,Россия,,Бийск,Спорт,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/sport.html?format=feed&type=rss
+RU,Россия,,Бийск,Экономика,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/ekonomika.html?format=feed&type=rss
+RU,Россия,,Бийск,Происшествия,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/proisshestviya.html?format=feed&type=rss
+RU,Россия,,Бийск,Образование,,Бийский рабочий,Бийский рабочий,http://www.biwork.ru/obrazovanie.html?format=feed&type=rss
+RU,Россия,,Архангельск,Новости Архангельской области,,Правда Севера,Правда Севера,http://pravdasevera.ru/rss
+RU,Россия,,Сельцо,Новости,,Сельцовский вестник,Сельцовский вестник,http://seltsovsky-vestnik.ru/rss.xml
+RU,Россия,,Улан-Удэ,Новости Бурятии,,Информ Полис,Информ Полис,http://www.infpol.ru/rss.html
+RU,Россия,,Александров,Новости,,Уездный город А,Уездный город А,http://feeds.feedburner.com/alexnews/SWXZ?format=xml
+RU,Россия,,Покров,Новости,,Покров Медиа,Покров Медиа,http://pokrovmedia.ru/feed/
+RU,Россия,,Ангарск,Новости,,Ангарская газета ВРЕМЯ,Ангарская газета ВРЕМЯ,http://angvremya.ru/rss.xml
+RU,Россия,,,Новости,,Северный Кавказ,Северный Кавказ,
+RU,Россия,,Калуга,Новости,,КП - Калуга,Комсомольская правда Калуга,http://www.kp40.ru/kp40.ru_news.rss
+RU,Россия,,Обнинск,Новости,,Пресса Обнинск,Пресса Обнинск,http://pressaobninsk.ru/rss.php
+RU,Россия,,Киров,Новости Кировской области,,Интернет-издание Новая пресса,Интернет издание Новая пресса,"http://www.new-pressa.ru/component/option,com_rss/feed,RSS2.0/no_html,1/"
+RU,Россия,,Киров,Новости Кировской области,,Репортеръ - газета Кировской области  ,Репортер Газета Кировской области  ,http://www.newsler.ru/rss
+RU,Россия,,Вятка,Новости Кировской области,,vyatka.ru,Вятка ру,http://vyatka.ru/site/rss
+RU,Россия,,Котельнич,Новости Кировской области,, Котельничский вестник, Котельничский вестник,http://feeds.feedburner.com/kotelnich-news?format=xml
+RU,Россия,,Сыктывкар,Новости республики Коми,,Красное знамя - независимая газета республики Коми,Красное знамя Независимая газета республики Коми,http://komikz.ru/rss.php
+RU,Россия,,Кудымкар,Новости республики Коми,,parmanews.ru,Парма Новости,http://parmanews.ru/index.php?option=com_k2&view=itemlist&format=feed&type=rss
+RU,Россия,,Москва,"События, решения",,Московская благотворительная газета  ,Московская благотворительная газета  ,http://www.mosblago.ru/rss/events.xml
+RU,Россия,,Москва,Гранты и конкурсы,,Московская благотворительная газета,Московская благотворительная газета,http://www.mosblago.ru/rss/grants.xml
+RU,Россия,,Москва,Что будет,,Московская благотворительная газета,Московская благотворительная газета,http://www.mosblago.ru/rss/afisha.xml
+RU,Россия,,Москва,Дайджест СМИ,,Московская благотворительная газета,Московская благотворительная газета,http://www.mosblago.ru/rss/digest.xml
+RU,Россия,,Москва,"Статьи ""Московской благотворительной газеты""",,Московская благотворительная газета,Московская благотворительная газета,http://www.mosblago.ru/rss/articles.xml
+RU,Россия,,Москва,Все новости,,Взгляд,Взгляд,http://www.vz.ru/rss.xml
+RU,Россия,,,Все новости,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/mainnews.rss
+RU,Россия,,,Самые важные,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/newsline.rss
+RU,Россия,,,Политика,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/politics.rss
+RU,Россия,,,Экономика,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/economics.rss
+RU,Россия,,,Общество,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/society.rss
+RU,Россия,,,Проишествия,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/incidents.rss
+EN,Russia,,,RBC news in English,,RBC,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/engfpnews_rss.rss
+RU,Россия,,,Все новости ,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/newsline.rss
+RU,Россия,,,Футбол,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/football.rss
+RU,Россия,,,Баскетбол,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/basketball.rss
+RU,Россия,,,Теннис,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/tennis.rss
+RU,Россия,,,Хоккей,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/hockey.rss
+RU,Россия,,,Зимние виды спорта,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/winter.rss
+RU,Россия,,,Экстремальный спорт,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/extrime.rss
+RU,Россия,,,Формула 1,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/f1.rss
+RU,Россия,,,Скандалы и курьёзы,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/scandals.rss
+RU,Россия,,,Популярные новости,Спорт,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/starred_news.rss
+RU,Россия,,Санкт-Петербург,Новости из Питера,,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/spb.rbc.ru/news.rss
+RU,Россия,,,Главные новости,Финансы,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/mainnews.rss
+RU,Россия,,,Фондовые новости,Финансы,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/fondnewsline.rss
+RU,Россия,,,Новости IPO,Финансы,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/ipo.rss
+RU,Россия,,,Календарь событий,Финансы,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/events.rss
+RU,Россия,,,Слияния и поглощения,Финансы,РБК,эр бэ ка,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/merge.rss
+RU,Россия,,,Главные новости,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/mainnews.rss
+RU,Россия,,,Последний номер,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/last.rss
+RU,Россия,,,В фокусе,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/focus_news.rss
+RU,Россия,,,ТЭК,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/tek_news.rss
+RU,Россия,,,Потребрынок,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/potreb_news.rss
+RU,Россия,,,Банки/Финансы,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/finance_news.rss
+RU,Россия,,,Индустрия,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/industry_news.rss
+RU,Россия,,,Телеком/Медиа,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/telecom_news.rss
+RU,Россия,,,Cnews/Autonews,,РБК daily,эр бэ ка дэйли,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/auto_cnews.rss
+RU,Россия,,,Главные новости,,РБК Недвижимость,эр бэ ка Недвижимость,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/realty.rbc.ru/mainnews.rss
+RU,Россия,,,Главные новости,,РБК Маркетинг,эр бэ ка Маркетинг,http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/research.rbc.ru/mainnews.rss
+RU,Россия,,,Все новости,,Эксперт,Эксперт,http://expert.ru/doc-list/rss/
+RU,Россия,,Москва,Все новости,,Московские новости,Московские новости,http://www.mn.ru/export/rss2/index.xml
+RU,Россия,,,Все новости,,Forbes russia,Форбс Россия,http://rss.forbes.ru/c/32589/f/492646/index.rss
+RU,Россия,,,Все новости,,Прайм,Прайм,http://1prime.ru/export/rss2/index.xml
+RU,Россия,,,Все новости,,Маркер,Маркер,http://marker.ru/xml/rss.xml
+RU,Россия,,Казань,Все новости,,Бизнес онлайн,Бизнес онлайн,http://www.business-gazeta.ru/rss.xml
+RU,Россия,,,Все новости,,Компания ,Компания ,http://ko.ru/rss/
+RU,Россия,,Владивосток,Все новости,,Золотой Рог,Золотой Рог,http://www.zrpress.ru/rss/
+RU,Россия,,Москва,Все новости,,Экономика и жизнь,Экономика и жизнь,http://www.eg-online.ru/news/news_rss.php?SID=605
+RU,Россия,,Санкт-Петербург,Все новости,,Агентство Бизнес Новостей,Агентство Бизнес Новостей,http://abnews.ru/feed/
+RU,Россия,,,Все новости,,Капитал страны,Капитал страны,http://kapital-rus.ru/upload/kaprus.xml/
+RU,Россия,,,Все новости,,"Экспертный канал ""Открытая экономика""",Экспертный канал Открытая экономика,http://www.opec.ru/rss/news.rss
+RU,Россия,,Пермь,Все новости,,Business Class,Бизнес класс,http://www.business-class.su/news_rss.php
+RU,Россия,,,Все новости,,Большой Бизнес,Большой Бизнес,http://www.bigness.ru/rss/
+RU,Россия,,Пермь,Все новости,,NewsKo,Ньюс КО,http://newsko.ru/rss.xml
+RU,Россия,,Казань,Все новости,,TatCenter.ru,Тат центр ру,http://info.tatcenter.ru/rss/
+RU,Россия,,Москва,Новости ИТ,,Intelligent Enterprise,Интэледжент энтерпрайз,http://www.iemag.ru/rss/
+RU,Россия,,Москва,Новости,,Портал ИКС,Портал ИКС,http://www.iksmedia.ru/rss/rss_yandex.rss
+RU,Россия,,Москва,Блоги,,Портал ИКС,Портал ИКС,http://www.iksmedia.ru/rss/rss_blogs.rss
+RU,Россия,,Омск,Новости,,Коммерческие вести,Коммерческие вести,http://kvnews.ru/structure/rss/all
+RU,Россия,,Новосибирск,Новости,,Континент Сибирь,Континент Сибирь,http://www.ksonline.ru/rss/-/sec/news/
+RU,Россия,,Новосибирск,"Газета ""Континент Сибирь""",,Континент Сибирь,Континент Сибирь,http://www.ksonline.ru/rss/-/sec/ks/
+RU,Россия,,Новосибирск,"Журнал ""Стратегии успеха""",,Континент Сибирь,Континент Сибирь,http://www.ksonline.ru/rss/-/sec/su/
+RU,Россия,,Новосибирск,"Журнал ""Самое-Самое""",,Континент Сибирь,Континент Сибирь,http://www.ksonline.ru/rss/-/sec/ss/
+RU,Россия,,,Все статьи,,Финансовый директор,Финансовый директор,http://www.fd.ru/rss/news.xml
+RU,Россия,,,Все новости,,Финансовый юрист,Финансовый юрист,http://financial-lawyer.ru/xml/rssfull.xml
+RU,Россия,,,Статьи,Управленцу,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss96.xml
+RU,Россия,,,Новости,Управленцу,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss96.xml
+RU,Россия,,,Статьи,Банкиру,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss95.xml
+RU,Россия,,,Новости,Банкиру,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss95.xml
+RU,Россия,,,Статьи,Юристу,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss94.xml
+RU,Россия,,,Новости,Юристу,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss94.xml
+RU,Россия,,,Статьи,Бухгалтеру,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss93.xml
+RU,Россия,,,Новости,Бухгалтеру,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss93.xml
+RU,Россия,,,Статьи,Экономисту,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss92.xml
+RU,Россия,,,Новости,Экономисту,Финансовый юрист,Финансовый юрист,http://www.financial-lawyer.ru/xml/rss92.xml
+RU,Россия,,Киров,Новости,,Бизнес-новости в Кирове,Бизнес-новости в Кирове,http://bnkirov.ru/feed
+RU,Россия,,Санкт-Петербург,Новости,,Эксперт Северо-Запад,Эксперт СевероЗапад,http://www.expertnw.ru/rss/
+RU,Россия,,Ростов,Новости,,Деловой Ростов,Деловой Ростов,http://www.gorodn.ru/razdel/razdel_rss.php
+RU,Россия,,Ростов,Спецпроекты,,Деловой Ростов,Деловой Ростов,http://www.gorodn.ru/special_projects/spec_rss.php
+RU,Россия,,Москва,Новости,,Brainity.ru,Брэйнити ру,http://www.brainity.ru/rss/
+RU,Россия,,Нижний Новгород,Все новости,Новости,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/10/
+RU,Россия,,Нижний Новгород,Нижний Новгород и область,Новости,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/11/
+RU,Россия,,Нижний Новгород,Федеральные и мировые новости,Новости,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/12/
+RU,Россия,,Нижний Новгород,Все статьи,Статьи,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/20/
+RU,Россия,,Нижний Новгород,Нижний Новгород и область,Статьи,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/21/
+RU,Россия,,Нижний Новгород,Федеральные и мировые новости,Статьи,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/22/
+RU,Россия,,Нижний Новгород,Комментарии,,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/40/
+RU,Россия,,Нижний Новгород,Дискуссии,,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/50/
+RU,Россия,,Нижний Новгород,Газета Биржа,,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/30/
+RU,Россия,,Нижний Новгород,Газета Биржа+АВТО,,Биржа.ру,Биржа ру,http://www.birzha.ru/rss/31/
+RU,Россия,,,Новости агентства АСИ,,Экономика России: XXI век,Экономика России двадцать первый век,http://www.asi.ru/news/rss/
+RU,Россия,,,Новости Правительства РФ,,Экономика России: XXI век,Экономика России двадцать первый век,http://government.ru/services/rss/full/
+RU,Россия,,Владивосток,Новости,,Дальневосточный Капитал,Дальневосточный Капитал,http://dvkapital.ru/rss/
+RU,Россия,,,Все новости,,Деловая газета,Деловая газета,http://www.delovaya.com/rss/delovaya.rss
+RU,Россия,,,Бизнес,,Деловая газета,Деловая газета,http://www.delovaya.com/rss/delovaya_business.rss
+RU,Россия,,,Общество,,Деловая газета,Деловая газета,http://www.delovaya.com/rss/delovaya_society.rss
+RU,Россия,,,Власть,,Деловая газета,Деловая газета,http://www.delovaya.com/rss/delovaya_government.rss
+RU,Россия,,,В мире,,Деловая газета,Деловая газета,http://www.delovaya.com/rss/delovaya_world.rss
+RU,Россия,,,Все новости,,Известия,Известия,http://izvestia.ru/xml/rss/all.xml
+RU,Россия,,,Политика,,Известия,Известия,http://izvestia.ru/xml/rss/politics.xml
+RU,Россия,,,Общество,,Известия,Известия,http://izvestia.ru/xml/rss/society.xml
+RU,Россия,,,Финансы,,Известия,Известия,http://izvestia.ru/xml/rss/38.xml
+RU,Россия,,,Экономика,,Известия,Известия,http://izvestia.ru/xml/rss/economics.xml
+RU,Россия,,,Недвижимость,,Известия,Известия,http://izvestia.ru/xml/rss/69.xml
+RU,Россия,,,Мир,,Известия,Известия,http://izvestia.ru/xml/rss/world.xml
+RU,Россия,,,Транспорт,,Известия,Известия,http://izvestia.ru/xml/rss/35.xml
+RU,Россия,,,Москва,,Известия,Известия,http://izvestia.ru/xml/rss/moscow.xml
+RU,Россия,,,Энергетика,,Известия,Известия,http://izvestia.ru/xml/rss/36.xml
+RU,Россия,,,Армия,,Известия,Известия,http://izvestia.ru/xml/rss/army.xml
+RU,Россия,,,Наука,,Известия,Известия,http://izvestia.ru/xml/rss/scince.xml
+RU,Россия,,,Гаджеты & Телеком,,Известия,Известия,http://izvestia.ru/xml/rss/gadgets.xml
+RU,Россия,,,Авто,,Известия,Известия,http://izvestia.ru/xml/rss/66.xml
+RU,Россия,,,Культура,,Известия,Известия,http://izvestia.ru/xml/rss/culture.xml
+RU,Россия,,,Стиль,,Известия,Известия,http://izvestia.ru/xml/rss/67.xml
+RU,Россия,,,Спорт,,Известия,Известия,http://izvestia.ru/xml/rss/sports.xml
+RU,Россия,,,Н,,Известия,Известия,http://izvestia.ru/xml/rss/weekly.xml
+RU,Россия,,,IT,,Известия,Известия,http://izvestia.ru/xml/rss/37.xml
+RU,Россия,,,Технопарки,,Известия,Известия,http://izvestia.ru/xml/rss/39.xml
+RU,Россия,,,Образование,,Известия,Известия,http://izvestia.ru/xml/rss/buisines.xml
+RU,Россия,,,Туризм,,Известия,Известия,http://izvestia.ru/xml/rss/travel.xml
+RU,Россия,,,Абитуриент,,Известия,Известия,http://izvestia.ru/xml/rss/abiturient.xml
+RU,Россия,,,Маленькая страна,,Известия,Известия,http://izvestia.ru/xml/rss/43.xml
+RU,Россия,,,Экология,,Известия,Известия,http://izvestia.ru/xml/rss/44.xml
+RU,Россия,,,Железные дороги,,Известия,Известия,http://izvestia.ru/xml/rss/45.xml
+RU,Россия,,,Инвестиции в строительство,,Известия,Известия,http://izvestia.ru/xml/rss/46.xml
+RU,Россия,,,Россия - регионы,,Известия,Известия,http://izvestia.ru/xml/rss/47.xml
+RU,Россия,,,Искусство дарить,,Известия,Известия,http://izvestia.ru/xml/rss/48.xml
+RU,Россия,,,Инвестиции,,Известия,Известия,http://izvestia.ru/xml/rss/50.xml
+RU,Россия,,,Интеграция,,Известия,Известия,http://izvestia.ru/xml/rss/51.xml
+RU,Россия,,,Авто,,Известия,Известия,http://izvestia.ru/xml/rss/52.xml
+RU,Россия,,,МФГС,,Известия,Известия,http://izvestia.ru/xml/rss/53.xml
+RU,Россия,,,Инновации,,Известия,Известия,http://izvestia.ru/xml/rss/54.xml
+RU,Россия,,,Панорама Тайваня,,Известия,Известия,http://izvestia.ru/xml/rss/57.xml
+RU,Россия,,,МАКС 2013,,Известия,Известия,http://izvestia.ru/xml/rss/56.xml
+RU,Россия,,,КНАУФ,,Известия,Известия,http://izvestia.ru/xml/rss/knauf.xml
+RU,Россия,,,Гражданская авиация,,Известия,Известия,http://izvestia.ru/xml/rss/64.xml
+RU,Россия,,,Нефть и газ,,Известия,Известия,http://izvestia.ru/xml/rss/76.xml
+RU,Россия,,,Формула лидерства,,Известия,Известия,http://izvestia.ru/xml/rss/77.xml
+RU,Россия,,,Все новости,,Аргументы и факты,Аргументы и факты,http://www.aif.ru/rss/all.php
+RU,Россия,,, Все материалы,Общие ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/index.xml
+RU,Россия,,, Новостная лента,Общие ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/news/index.xml
+RU,Россия,,, Свежий МК,Общие ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/daily/index.xml
+RU,Россия,,, Экономика,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/economics/index.xml
+RU,Россия,,, Политика,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/politics/index.xml
+RU,Россия,,, Происшествия,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/incident/index.xml
+RU,Россия,,, Общество,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/social/index.xml
+RU,Россия,,, Культура,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/culture/index.xml
+RU,Россия,,, Наука,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/science/index.xml
+RU,Россия,,, Спорт,Тематические ленты,Московский Комсомолец,Московский Комсомолец,http://www.mk.ru/rss/sport/index.xml
+RU,Россия,,,Новости,,Независимая газета,Независимая газета,http://www.ng.ru/rss/
+RU,Россия,,,Все новости,,CNews ,Си ньюз,http://www.cnews.ru/news.xml
+RU,Россия,,,Главные новости,,CNews,Си ньюз,http://www.cnews.ru/news_top.xml
+RU,Россия,,,Лента новостей,,CNews,Си ньюз,http://www.cnews.ru/news_line.xml
+RU,Россия,,,Безопасность,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/safe_rss.xml
+RU,Россия,,,Открытое ПО,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/spo_rss.xml
+RU,Россия,,,Zoom статьи,Техника,CNews,Си ньюз,http://www.cnews.ru/rss/mrtest/rss_mrtest_last_art.xml
+RU,Россия,,,Zoom новости,Техника,CNews,Си ньюз,http://www.cnews.ru/inc/rss/market_rss.xml
+RU,Россия,,,Наука,Техника,CNews,Си ньюз,http://zoom.cnews.ru/rnd/inc/rss/rss.xml
+RU,Россия,,,Аналитика,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/articles_rss.xml
+RU,Россия,,,Мероприятия,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/agenda_rss.xml
+RU,Россия,,,Пресс-релизы,,CNews,Си ньюз,http://club.cnews.ru/rss.php
+RU,Россия,,,ИКТ-бизнес,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/biz_rss.xml
+RU,Россия,,,Телеком,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/telecom_rss.xml
+RU,Россия,,,Интеграция,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/corp_rss.xml
+RU,Россия,,,Интернет,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/internet_rss.xml
+RU,Россия,,,Soft CNews,,CNews,Си ньюз,http://www.cnews.ru/inc/rss/softbox_rss.xml
+RU,Россия,,,Новости,,Новая газета,Новая газета,http://www.novayagazeta.ru/rss/all.xml
+RU,Россия,,,Основные новости,,Новые Известия,Новые Известия,http://www.newizv.ru/rss/daily.xml
+RU,Россия,,,Лента новостей On-Line,,Новые Известия,Новые Известия,http://www.newizv.ru/rss/lenta.xml
+RU,Россия,,,Вся лента ,,Правда.ру,Правду ру,http://www.pravda.ru/export.xml
+RU,Россия,,,Аналитика,,Правда.ру,Правду ру,http://www.pravda.ru/export-articles.xml
+RU,Россия,,,Новости,,Правда.ру,Правду ру,http://www.pravda.ru/export-news.xml
+RU,Россия,,,Мир ,,Правда.ру,Правду ру,http://www.pravda.ru/world/export.xml
+RU,Россия,,,Общество,,Правда.ру,Правду ру,http://www.pravda.ru/society/export.xml
+RU,Россия,,,Экономика ,,Правда.ру,Правду ру,http://www.pravda.ru/economics/export.xml
+RU,Россия,,,Культура ,,Правда.ру,Правду ру,http://www.pravda.ru/culture/export.xml
+RU,Россия,,,Россия,,Правда.ру,Правду ру,http://www.pravda.ru/districts/export.xml
+RU,Россия,,,Наука и техника,,Правда.ру,Правду ру,http://www.pravda.ru/science/export.xml
+RU,Россия,,,Политика ,,Правда.ру,Правду ру,http://www.pravda.ru/politics/export.xml
+RU,Россия,,,Politonline.ru,,Правда.ру,Правду ру,http://www.politonline.ru/rss/all.xml
+RU,Россия,,,Здоровье ,,Правда.ру,Правду ру,http://www.medpulse.ru/all.xml
+RU,Россия,,,Yoki.ru,,Правда.ру,Правду ру,http://www.yoki.ru/all.xml
+RU,Россия,,,Красота ,,Правда.ру,Правду ру,http://lady.pravda.ru/all.xml
+RU,Россия,,,Моя семья,,Правда.ру,Правду ру,http://www.missus.ru/all.xml
+RU,Россия,,,Происшествия ,,Правда.ру,Правду ру,http://www.pravda.ru/accidents/export.xml
+RU,Россия,,,Бизнес ,,Правда.ру,Правду ру,http://www.bigness.ru/rss
+RU,Россия,,,Путешествия ,,Правда.ру,Правду ру,http://www.pravda.ru/travel/export.xml
+RU,Россия,,,События недели,,Правда.ру,Правду ру,http://www.pravda.ru/week/export.xml
+RU,Россия,,,Новости,,Интерфакс,Интерфакс,http://www.interfax.ru/rss.asp

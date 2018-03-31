@@ -1,0 +1,126 @@
+/* 
+  Localizable.strings
+  Speind
+
+  Created by Sergey Butenko on 11/6/14.
+  Copyright (c) 2014 Speaking Mind. All rights reserved.
+*/
+
+"MinuteShort" = "m";
+"HourShort" = "h";
+"DayShort" = "d";
+"Ago" = "ago";
+
+"Yes" = "Yes";
+"No" = "No";
+
+"Error" = "Error";
+"Thank you" = "Thank You";
+"No internet" = "No network connection";
+"Internet lost" = "Network error occurred, check your network connection";
+"Slow internet" = "";
+
+"Download via WiFi only" = "Download via WiFi only";
+"Downloading" = "Downloading";
+"Extracting" = "Extracting";
+"Purchases restored" = "Your purchase successfully restored";
+"In queue" = "In queue";
+"Auth in plugin %@" = "You didn't authorized with %@ yet. Do it now?";
+
+"Version" = "Version";
+"Tips" = "Tips";
+"Rate us" = "Rate us";
+"Support" = "Support";
+
+"Default voice title" = "Apple's %@ voice";
+"Enter %@" = "Enter a %@";
+
+"Go settings" = "Open Settings";
+"Ok, I got it" = "Ok, got it";
+"Unsupported locale instruction" = "We are sorry, but news sources collection for your location is in development now. You can add your own news sources from the RSS-settings menu";
+
+/* TITLES */
+"Title - Main" = "On Air";
+"Title - Feedback" = "Feedback";
+"Title - Settings" = "Settings";
+"Title - My feeds" = "My news feeds";
+"Title - Add user feed" = "Add custom feed";
+"Title - Edit user feed" = "Edit custom feed";
+"Title - Rate us" = "Give a five!";
+"Title - Details" = "Details";
+/* TITLES */
+
+/* SETTINGS - MAIN SECTION */
+"Max play time" = "Reading/Music";
+"Refresh rate" = "Polling interval";
+"Store time" = "Store history for";
+"Read full article" = "Automatically read full articles";
+"Download images on mobile net" = "Don't load images over cell-net";
+"Screen turned on" = "Keep the screen turned on";
+"Voices" = "Voices";
+/* SETTINGS - MAIN SECTION */
+
+/* SETTINGS - PLUGINS SECTION */
+"Plugins" = "Plugins";
+"Restore purchases" = "Restore purchases";
+/* SETTINGS - PLUGINS SECTION */
+
+"Enabled" = "Enabled";
+"Sign in" = "Sign in";
+"Sign out" = "Sign out";
+
+/* SETTINGS - OPTIONS */
+
+"Speech rate" = "Speech rate";
+
+/* Read news */
+"Till the end" = "Till the end";
+"Not more than 1 at once" = "Swap 1 by 1";
+"Not longer that 5 min" = "5 min timer";
+"Not longer that 10 min" = "10 min timer";
+"Not longer that 15 min" = "15 min timer";
+
+/* Polling interval */
+"5 minutes" = "5 minutes";
+"15 minutes" = "15 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"5 hours" = "5 hours";
+
+/* Store history */
+"1 day" = "1 day";
+"3 days" = "3 days";
+/* SETTINGS - OPTIONS */
+
+/* SETTINGS - RSS */
+"User feeds" = "Custom news feeds";
+"Country" = "Country";
+"Language" = "Language";
+"Main news" = "Hot news";
+"Regional news" = "Local news";
+/* SETTINGS - RSS */
+
+/* SETTINGS - CUSTOM FEED */
+"Add new feed" = "Add new feed";
+
+"Video instruction" = "Video instruction";
+"Name" = "Name";
+"URL" = "URL";
+"Check feed"= "Check feed";
+"Delete feed" = "Delete feed";
+"Confirm delete feed" = "Are you really want to delete feed";
+"Cancel" = "Cancel";
+
+"Bad link" =  "Bad link - invalid data obtained";
+"No internet connection" = "No Internet connection";
+"Checking..." = "Checking...";
+"No name of the feed" = "Type the name of the feed";
+/* SETTINGS - CUSTOM FEED */
+
+
+/* PLUGINS */
+"RSS" = "RSS";
+"Vkontakte" = "Vkontakte";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+/* PLUGINS */

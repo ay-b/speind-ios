@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+  Speind
+
+  Created by Sergey Butenko on 11/6/14.
+  Copyright (c) 2014 Speaking Mind. All rights reserved.
+*/
+
+"MinuteShort" = "м";
+"HourShort" = "ч";
+"DayShort" = "д";
+"Ago" = "назад";
+
+"Yes" = "Да";
+"No" = "Нет";
+
+"Error" = "Ошибка";
+"Thank you" = "Спасибо";
+"No internet" = "Отсутствует подключение к интернет.";
+"Internet lost" = "Произошла ошибка при работе с сетью. Проверьте интернет соединение.";
+"Slow internet" = "Используйте высокоскоростное интернет соединение для скачивания голоса.";
+
+"Download via WiFi only" = "Загружать только по WIFi";
+"Downloading" = "Загрузка";
+"Extracting" = "Извлечение";
+"Purchases restored" = "Ваши покупки успешно восстановлены";
+"In queue" = "В очереди";
+"Auth in plugin %@" = "Вы не авторизировались в %@. Хотите сделать это сейчас? ";
+
+"Version" = "Версия";
+"Tips" = "Подсказки";
+"Rate us" = "Оцените нас";
+"Support" = "Техподдержка";
+
+"Default voice title" = "%@ голос от Apple";
+"Enter %@" = "Введите %@";
+
+"Go settings" = "Открыть настройки";
+"Ok, I got it" = "Ок, понятно";
+"Unsupported locale instruction" = "Мы просим прощения, но список источников новостей для вашего местоположения пока в разработке. Вы можете добавить собственные источники в настройках RSS";
+
+/* TITLES */
+"Title - Main" = "В эфире";
+"Title - Feedback" = "Отзыв";
+"Title - Settings" = "Настройки";
+"Title - My feeds" = "Мои источники";
+"Title - Add user feed" = "Добавить источник";
+"Title - Edit user feed" = "Редактировать источник";
+"Title - Rate us" = "Нравится? Дай 5!";
+"Title - Details" = "Подробнее";
+/* TITLES */
+
+/* SETTINGS - MAIN SECTION */
+"Max play time" = "Чтение/музыка";
+"Refresh rate" = "Интервал обновления";
+"Store time" = "Хранить историю";
+"Read full article" = "Автоматически читать полную статью";
+"Download images on mobile net" = "Не загружать изображения через сотовую сеть";
+"Screen turned on" = "Не выключать экран";
+"Voices" = "Голоса";
+/* SETTINGS - MAIN SECTION */
+
+/* SETTINGS - PLUGINS SECTION */
+"Plugins" = "Дополнения";
+"Restore purchases" = "Восстановить покупки";
+/* SETTINGS - PLUGINS SECTION */
+
+"Enabled" = "Включен";
+"Sign in" = "Авторизироваться";
+"Sign out" = "Выйти";
+
+/* SETTINGS - OPTIONS */
+
+"Speech rate" = "Скорость чтения";
+
+/* Read news */
+"Till the end" = "Пока есть";
+"Not more than 1 at once" = "Чередование";
+"Not longer that 5 min" = "По 5 мин";
+"Not longer that 10 min" = "По 10 мин";
+"Not longer that 15 min" = "По 15 мин";
+
+/* Polling interval */
+"5 minutes" = "5 минут";
+"15 minutes" = "15 минут";
+"30 minutes" = "30 минут";
+"1 hour" = "1 час";
+"5 hours" = "5 часов";
+
+/* Store history */
+"1 day" = "1 день";
+"3 days" = "3 дня";
+/* SETTINGS - OPTIONS */
+
+/* SETTINGS - RSS */
+"User feeds" = "Пользовательские источники";
+"Country" = "Страна";
+"Language" = "Язык";
+"Main news" = "Главные новости";
+"Regional news" = "Региональные новости";
+/* SETTINGS - RSS */
+
+/* SETTINGS - CUSTOM FEED */
+"Add new feed" = "Добавить новый источник";
+
+"Video instruction" = "Видео инструкция";
+"Name" = "Название";
+"URL" = "URL";
+"Check feed" = "Проверить источник";
+"Delete feed" = "Удалить источник";
+"Confirm delete feed" = "Вы действительно хотите удалить источник";
+"Cancel" = "Отмена";
+
+"Bad link" = "По ссылке отсутствуют нужные данные";
+"No internet connection" = "Нет связи с сетью";
+"Checking..." = "Проверка источника...";
+"No name of the feed" = "Введите название источника";
+/* SETTINGS - CUSTOM FEED */
+
+/* PLUGINS */
+"RSS" = "RSS";
+"Vkontakte" = "Вконтакте";
+"Facebook" = "Фейсбук";
+"Twitter" = "Твиттер";
+/* PLUGINS */

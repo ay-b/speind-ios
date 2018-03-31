@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="rS3-R9-Ivy">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="cUi-kZ-frf">
+            <objects>
+                <navigationController storyboardIdentifier="navController" useStoryboardIdentifierAsRestorationIdentifier="YES" navigationBarHidden="YES" id="rS3-R9-Ivy" customClass="SMNavigationController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="Ir8-v9-HJO">
+                        <barButtonItem key="backBarButtonItem" title=" " id="nD7-be-C0a"/>
+                    </navigationItem>
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="yXu-0R-QUA">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="ixD-9q-egH" kind="relationship" relationship="rootViewController" id="Jan-d8-9O4"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="eq9-QA-ai8" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2434" y="634"/>
+        </scene>
+        <!--Splash Screen View Controller-->
+        <scene sceneID="xqe-3P-SBy">
+            <objects>
+                <viewController storyboardIdentifier="SplashScreenVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="ixD-9q-egH" customClass="SMSplashScreenViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="5pT-Vr-cb9"/>
+                    <connections>
+                        <segue destination="45V-x7-Dfp" kind="push" identifier="toMain" id="hrf-Iw-uyp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="N6V-V9-HN0" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2004" y="634"/>
+        </scene>
+        <!--Main View Controller-->
+        <scene sceneID="JYd-Lz-n4D">
+            <objects>
+                <viewController storyboardIdentifier="MainVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="JfD-NR-eeh" customClass="SMMainViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="y0i-Ai-6lh">
+                        <barButtonItem key="backBarButtonItem" title=" " id="etv-3C-J57"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="L2P-jC-PhP" kind="push" identifier="toListDetails" id="Xhv-XM-dJw"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="yQu-Xp-DVc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-459" y="876"/>
+        </scene>
+        <!--Infopoint List Details View Controller-->
+        <scene sceneID="xke-il-6Mg">
+            <objects>
+                <viewController storyboardIdentifier="InfopointDetailsVC" automaticallyAdjustsScrollViewInsets="NO" id="L2P-jC-PhP" customClass="SMInfopointListDetailsViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="M61-Ng-Lhz"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="yea-K5-zon" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-5" y="876"/>
+        </scene>
+        <!--Feedback View Controller-->
+        <scene sceneID="g3G-pV-32A">
+            <objects>
+                <viewController storyboardIdentifier="AboutVC" automaticallyAdjustsScrollViewInsets="NO" useStoryboardIdentifierAsRestorationIdentifier="YES" id="gUt-Ua-6xi" customClass="SMFeedbackViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="WL9-Dr-wDa">
+                        <barButtonItem key="backBarButtonItem" title=" " id="7kw-2t-OgL"/>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="m9c-io-Rop" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="921" y="-636"/>
+        </scene>
+        <!--Settings View Controller-->
+        <scene sceneID="Zen-SS-7wq">
+            <objects>
+                <viewController storyboardIdentifier="SettingsVC" autoresizesArchivedViewToFullSize="NO" automaticallyAdjustsScrollViewInsets="NO" id="7UT-JS-gPD" customClass="SMSettingsViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="BDG-zN-3ce">
+                        <barButtonItem key="backBarButtonItem" title=" " id="JDL-kL-1XD"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="MdS-Xj-OYY" kind="push" identifier="toPluginRSS" id="jTG-MX-jTJ"/>
+                        <segue destination="Drn-LZ-O0H" kind="push" identifier="toVoices" id="37C-SG-eVf"/>
+                        <segue destination="img-Js-naW" kind="push" identifier="toPluginTwitter" id="Mc5-Wl-w95"/>
+                        <segue destination="ZPm-YQ-kZI" kind="push" identifier="toPluginVK" id="YKE-hI-wvf"/>
+                        <segue destination="lGi-Vg-dQp" kind="push" identifier="toPicker" id="I3m-eD-ZxJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UWZ-E4-kHI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="921" y="64"/>
+        </scene>
+        <!--Picker View Controller-->
+        <scene sceneID="ch4-W5-kJD">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="lGi-Vg-dQp" customClass="SMPickerViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="ppR-dj-H6s"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="RZF-MY-7mP" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1359" y="-1304"/>
+        </scene>
+        <!--Settings Voices View Controller-->
+        <scene sceneID="rOX-0S-OBu">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="Drn-LZ-O0H" customClass="SMSettingsVoicesViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="mMQ-P0-W22">
+                        <barButtonItem key="backBarButtonItem" title=" " id="yNk-t2-fAw"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="8NZ-M2-TaH" kind="push" identifier="toPicker" id="t9Q-IU-tGV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="sp6-eW-PKk" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1359" y="-636"/>
+        </scene>
+        <!--SettingsRSS View Controller-->
+        <scene sceneID="rDr-0I-90z">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="MdS-Xj-OYY" customClass="SMSettingsRSSViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="l84-sj-YYl">
+                        <barButtonItem key="backBarButtonItem" title=" " id="ARL-sE-Wjs"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="biT-u3-Tqo" kind="push" identifier="toUserFeeds" id="3nN-re-h0Y"/>
+                        <segue destination="bWa-fM-9Et" kind="push" identifier="toPicker" id="w6w-27-cr0"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Vjv-BD-QLO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1359" y="64"/>
+        </scene>
+        <!--Plugin Twitter View Controller-->
+        <scene sceneID="y3d-Xt-SGl">
+            <objects>
+                <viewController storyboardIdentifier="PluginTwitter" automaticallyAdjustsScrollViewInsets="NO" id="img-Js-naW" customClass="SMPluginTwitterViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="Gzo-a2-ZOa"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="d9P-2d-wmc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1359" y="718"/>
+        </scene>
+        <!--Users Feeds View Controller-->
+        <scene sceneID="xF2-BB-cbl">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="biT-u3-Tqo" customClass="SMUsersFeedsViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="sEf-qg-IhH">
+                        <barButtonItem key="backBarButtonItem" title=" " id="PfJ-uE-2Ds"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="qpR-78-gfc" kind="push" identifier="toAddingFeed" id="Tae-6A-9fa"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="LJR-uQ-ngM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1774" y="64"/>
+        </scene>
+        <!--Add Feed View Controller-->
+        <scene sceneID="nh4-CR-LOG">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="qpR-78-gfc" customClass="SMAddFeedViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="lJF-bs-RuG">
+                        <barButtonItem key="backBarButtonItem" title=" " id="yLf-eo-LqE"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="POK-xl-iRL" kind="push" identifier="toPicker" id="bmm-IX-9Mi"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iDH-t3-7Mw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2201" y="64"/>
+        </scene>
+        <!--PluginVK View Controller-->
+        <scene sceneID="Sbf-5e-GPE">
+            <objects>
+                <viewController storyboardIdentifier="PluginVK" automaticallyAdjustsScrollViewInsets="NO" id="ZPm-YQ-kZI" customClass="SMPluginVKViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="d8F-yh-b2V"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Fee-Cg-OkN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1359" y="1400"/>
+        </scene>
+        <!--Picker View Controller-->
+        <scene sceneID="UmM-0Y-nAZ">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="bWa-fM-9Et" customClass="SMPickerViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="h6r-WV-1b9"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ghr-ey-iWR" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1774" y="718"/>
+        </scene>
+        <!--Picker View Controller-->
+        <scene sceneID="S9D-Uc-9bh">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="POK-xl-iRL" customClass="SMPickerViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="IOv-ZM-kma"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="j6e-Wj-mYf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2598" y="64"/>
+        </scene>
+        <!-- -->
+        <scene sceneID="rQH-km-ep6">
+            <objects>
+                <viewController storyboardIdentifier="SidebarVC" autoresizesArchivedViewToFullSize="NO" automaticallyAdjustsScrollViewInsets="NO" id="dqs-5d-IBe" customClass="SMSideBarViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" title=" " id="s3g-au-We8">
+                        <barButtonItem key="backBarButtonItem" title=" " id="mul-za-lRu"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="7UT-JS-gPD" kind="push" identifier="toSettings" id="Pn2-cF-FUu"/>
+                        <segue destination="gUt-Ua-6xi" kind="push" identifier="toAbout" id="fMf-GY-rqG"/>
+                        <segue destination="img-Js-naW" kind="push" identifier="toPluginTwitter" id="rva-c8-obw"/>
+                        <segue destination="ZPm-YQ-kZI" kind="push" identifier="toPluginVK" id="oGS-RL-66Y"/>
+                        <segue destination="MdS-Xj-OYY" kind="push" identifier="toPluginRSS" id="l1l-7h-mG1"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Pq4-Jp-Bnd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-459" y="186"/>
+        </scene>
+        <!--Main Drawer View Controller-->
+        <scene sceneID="YMQ-Gv-XUD">
+            <objects>
+                <viewController storyboardIdentifier="MainDrawerVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="45V-x7-Dfp" customClass="SMMainDrawerViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="3OH-Ps-rF7">
+                        <barButtonItem key="backBarButtonItem" title=" " id="HYo-3e-mMd"/>
+                    </navigationItem>
+                    <connections>
+                        <segue destination="dqs-5d-IBe" kind="push" identifier="toLeftSidebarView" id="1e6-yt-1QE"/>
+                        <segue destination="JfD-NR-eeh" kind="push" identifier="toCenterSidebarView" id="EvG-5y-T0R"/>
+                        <segue destination="MdS-Xj-OYY" kind="push" identifier="toRSSSettingsFromMain" id="dUa-uh-YGJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QrO-aP-6vN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1171" y="634"/>
+        </scene>
+        <!--Picker View Controller-->
+        <scene sceneID="cVm-ns-l4n">
+            <objects>
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="8NZ-M2-TaH" customClass="SMPickerViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="lI6-cm-TuF"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ama-sb-UnC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1774" y="-636"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+    <inferredMetricsTieBreakers>
+        <segue reference="dUa-uh-YGJ"/>
+        <segue reference="oGS-RL-66Y"/>
+        <segue reference="rva-c8-obw"/>
+    </inferredMetricsTieBreakers>
+</document>

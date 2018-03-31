@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Open a chat window"; ObjectID = "0jZ-e3-fFX"; */
+"0jZ-e3-fFX.normalTitle" = "Открыть чат";
+
+/* Class = "UILabel"; text = "We know, you have something to say. Please, do it. We really need your feedback and we’ll be very thankful for every one we get. \n\nThanks in forward."; ObjectID = "CoF-0g-4gO"; */
+"CoF-0g-4gO.text" = "Мы уверены, вам есть что сказать — пожалуйста, напишите нам.\n\nНам важно ваше мнение и мы будем благодарны вам за него.";
+
+/* Class = "UIButton"; normalTitle = "Write us a letter"; ObjectID = "LVB-46-qv9"; */
+"LVB-46-qv9.normalTitle" = "Написать письмо";
+
+/* Class = "UILabel"; text = "You need an immediate answer? Open a chat session and have a try.\n\nPlease, note that we live in UTC+3 zone and have to sleep, to eat and play with kids time to time.\n\nWe speak English, Russian and Ukrainian."; ObjectID = "dBl-yj-ht4"; */
+"dBl-yj-ht4.text" = "У вас что-то срочное? Откройте чат и задайте вопрос.\n\nПожалуйста, помните, что разработчики тоже иногда спят, едят и занимаются с детьми. Ответ может быть дан не сразу.";

@@ -1,0 +1,105 @@
+PODS:
+  - AFNetworking (2.5.3):
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
+  - AFNetworking/NSURLConnection (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.3)
+  - AFNetworking/Security (2.5.3)
+  - AFNetworking/Serialization (2.5.3)
+  - AFNetworking/UIKit (2.5.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Block-KVO (2.2.1)
+  - Bolts (1.1.5):
+    - Bolts/AppLinks (= 1.1.5)
+    - Bolts/Tasks (= 1.1.5)
+  - Bolts/AppLinks (1.1.5):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.1.5)
+  - CHCSVParser (2.1.0)
+  - Facebook-iOS-SDK (3.23.2):
+    - Bolts (~> 1.0)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - Lockbox (2.1.0)
+  - MBProgressHUD (0.9.1)
+  - MMDrawerController (0.6.0):
+    - MMDrawerController/Core (= 0.6.0)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.6.0)
+    - MMDrawerController/MMDrawerVisualStates (= 0.6.0)
+    - MMDrawerController/Subclass (= 0.6.0)
+  - MMDrawerController/Core (0.6.0)
+  - MMDrawerController/MMDrawerBarButtonItem (0.6.0):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.6.0):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.6.0):
+    - MMDrawerController/Core
+  - RMStore (0.7.1):
+    - RMStore/Core (= 0.7.1)
+  - RMStore/Core (0.7.1)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SimulatorStatusMagic (1.4)
+  - SSZipArchive (0.3.2)
+  - StreamingKit (0.1.25)
+  - STTwitter (0.2.0)
+  - SwipeView (1.3.2)
+  - SWTableViewCell (0.3.7)
+  - VK-ios-sdk (1.1.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4)
+  - Block-KVO
+  - CHCSVParser (~> 2.1)
+  - Facebook-iOS-SDK (~> 3.23)
+  - FMDB (~> 2.4)
+  - Lockbox (~> 2.1)
+  - MBProgressHUD (~> 0.9)
+  - MMDrawerController (~> 0.5)
+  - RMStore (~> 0.6)
+  - SDWebImage (~> 3.7)
+  - SimulatorStatusMagic
+  - SSZipArchive (~> 0.3)
+  - StreamingKit (~> 0.1)
+  - STTwitter (~> 0.1)
+  - SwipeView (~> 1.3)
+  - SWTableViewCell (~> 0.3.7)
+  - VK-ios-sdk (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
+  Block-KVO: 64b63a4bde798ab43caa221db916192cee731886
+  Bolts: aac24961496d504aa56fc267cde95162a71bac39
+  CHCSVParser: 3bcc7bdb72111a31222e95d57eacceefe4e537e8
+  Facebook-iOS-SDK: cd87f0b2f0c1d9574b44e8fa2baacc275524bac3
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  Lockbox: 16442da35d9d4286966936763be728a931d589c3
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MMDrawerController: e3a54a5570388463ad3b36975251575b50c4e1a0
+  RMStore: 64ba13a9c040e3b7572765d169f77175cd3243e5
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SimulatorStatusMagic: dd84bf4fba55e0e4dea8eb2af1d20dab377be8c1
+  SSZipArchive: 11801759495fa4efb7512ef652eb0042d68305d7
+  StreamingKit: f00c054cfd0f59d88c8be7a2270e208302ce48c4
+  STTwitter: 4fda61d0a96c707f94df85677b1a4aedbcec6fcd
+  SwipeView: bd67cfaf7760c036438446b3ccb28a3b84fce009
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+  VK-ios-sdk: 303df4a8c5ef09dc3be4527b6d7afc7ab874f4f1
+
+COCOAPODS: 0.37.2

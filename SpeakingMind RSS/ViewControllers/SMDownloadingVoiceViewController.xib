@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6724" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6711"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SMDownloadingVoiceViewController">
+            <connections>
+                <outlet property="downloadingProgressView" destination="h6r-2Z-acR" id="dvY-fN-O2X"/>
+                <outlet property="statusLabel" destination="n7n-Ap-BpQ" id="kbG-uU-qKd"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_screen_logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="dzC-A7-dbx" userLabel="Logo">
+                    <rect key="frame" x="219" y="180" width="162" height="25"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="25" id="YLo-4N-W1M"/>
+                        <constraint firstAttribute="width" constant="162" id="hBm-35-b4Z"/>
+                        <constraint firstAttribute="width" secondItem="dzC-A7-dbx" secondAttribute="height" multiplier="1:1" id="sjR-x0-VkX"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="sjR-x0-VkX"/>
+                        </mask>
+                    </variation>
+                </imageView>
+                <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" translatesAutoresizingMaskIntoConstraints="NO" id="h6r-2Z-acR">
+                    <rect key="frame" x="220" y="218" width="160" height="3"/>
+                    <color key="tintColor" red="0.15686275059999999" green="0.75686275960000005" blue="0.88627451660000001" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="160" id="l6W-c7-gv1"/>
+                    </constraints>
+                    <color key="progressTintColor" red="0.15686275064945221" green="0.75686275959014893" blue="0.88627451658248901" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="trackTintColor" red="0.82745098039215681" green="0.84705882352941175" blue="0.85098039215686272" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </progressView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n7n-Ap-BpQ">
+                    <rect key="frame" x="298" y="227" width="5" height="18"/>
+                    <attributedString key="attributedText">
+                        <fragment content=" ">
+                            <attributes>
+                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="centerX" secondItem="h6r-2Z-acR" secondAttribute="centerX" id="27x-ZW-ptL">
+                    <variation key="widthClass=compact" constant="0.0"/>
+                </constraint>
+                <constraint firstAttribute="centerX" secondItem="n7n-Ap-BpQ" secondAttribute="centerX" id="EOW-do-zEH"/>
+                <constraint firstItem="h6r-2Z-acR" firstAttribute="top" secondItem="dzC-A7-dbx" secondAttribute="bottom" constant="13" id="MhG-hl-oVn"/>
+                <constraint firstAttribute="centerX" secondItem="dzC-A7-dbx" secondAttribute="centerX" id="PH1-Rm-mc8"/>
+                <constraint firstItem="n7n-Ap-BpQ" firstAttribute="top" secondItem="h6r-2Z-acR" secondAttribute="bottom" constant="7" id="Qpo-cS-vnF"/>
+                <constraint firstItem="dzC-A7-dbx" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="180" id="gty-63-3dU"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="launch_screen_logo.png" width="162" height="25"/>
+    </resources>
+</document>

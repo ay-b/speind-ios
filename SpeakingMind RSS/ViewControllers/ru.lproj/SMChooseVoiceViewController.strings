@@ -1,0 +1,6 @@
+
+/* Class = "IBUILabel"; text = "Application need to download voice data. High speed connection is recommended."; ObjectID = "OrL-7D-OoH"; */
+"OrL-7D-OoH.text" = "Программе необходимо скачать “голос” для чтения новостей. Лучше использовать высокоскоростное подключение.";
+
+/* Class = "IBUILabel"; text = "Please, choose the voice and language to be used"; ObjectID = "zUX-FT-wL1"; */
+"zUX-FT-wL1.text" = "Выберите, пожалуйста, голос";
